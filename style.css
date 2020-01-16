@@ -62,7 +62,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  background:url(img/andrew-head6.jpg);
+  background:url(img/andrew-head7.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -90,6 +90,7 @@ section {
 
 .section-follow .social-media {
   font-size: 32px;
+  color: #0000;
 }
 
 .section-follow .follow-me:after {
